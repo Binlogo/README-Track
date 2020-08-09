@@ -1,11 +1,11 @@
 # Project name
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub repo size](https://img.shields.io/github/repo-size/Binlogo/README-Track.md)
-![GitHub contributors](https://img.shields.io/github/contributors/Binlogo/README-Track.md)
-![GitHub stars](https://img.shields.io/github/stars/Binlogo/README-Track.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Binlogo/README-Track.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/Binlogo?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Binlogo/README-Track)
+![GitHub contributors](https://img.shields.io/github/contributors/Binlogo/README-Track)
+![GitHub stars](https://img.shields.io/github/stars/Binlogo/README-Track?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Binlogo/README-Track?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/binglogo?style=social)
 
 Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
